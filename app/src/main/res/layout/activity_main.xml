@@ -14,7 +14,7 @@
         android:layout_width="331dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="48dp"
-
+        android:padding="2dp"
         android:layout_marginBottom="56dp"
         android:text="Welcome to Greetings App"
         android:textColor="@color/black"
